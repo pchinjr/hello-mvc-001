@@ -1,8 +1,8 @@
 @app
 begin-app
 
-@http
-get /
+@static
+folder _site
 
 @tables
 data
